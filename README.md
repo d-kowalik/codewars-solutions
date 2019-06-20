@@ -1,1 +1,1 @@
-# List of my solutions for Codewars
+# List of my solutions for [Codewars](https://www.codewars.com)
